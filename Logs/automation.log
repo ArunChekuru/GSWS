@@ -1,0 +1,131 @@
+11:47:09.383 [main] INFO  testcase.TC_001Login - starting TC_001Login
+11:47:11.597 [main] INFO  testcase.TC_001Login - Entered Valid Username
+11:47:11.696 [main] INFO  testcase.TC_001Login - Entered Valid Password
+11:47:12.304 [main] INFO  testcase.TC_001Login - Click on Submit Button
+11:47:12.304 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+11:51:44.574 [main] INFO  testcase.TC_001Login - starting TC_001Login
+11:51:47.699 [main] INFO  testcase.TC_001Login - Entered Valid Username
+11:51:47.795 [main] INFO  testcase.TC_001Login - Entered Valid Password
+11:51:48.457 [main] INFO  testcase.TC_001Login - Click on Submit Button
+11:51:48.458 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+11:53:16.475 [main] INFO  testcase.TC_001Login - starting TC_001Login
+11:53:19.855 [main] INFO  testcase.TC_001Login - Entered Valid Username
+11:53:19.953 [main] INFO  testcase.TC_001Login - Entered Valid Password
+11:53:20.616 [main] INFO  testcase.TC_001Login - Click on Submit Button
+11:53:20.617 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+11:56:30.650 [main] INFO  testcase.TC_001Login - starting TC_001Login
+11:56:34.279 [main] INFO  testcase.TC_001Login - Entered Valid Username
+11:56:34.376 [main] INFO  testcase.TC_001Login - Entered Valid Password
+11:56:35.013 [main] INFO  testcase.TC_001Login - Click on Submit Button
+11:56:35.014 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+12:17:35.903 [main] INFO  testcase.TC_001Login - starting TC_001Login
+12:17:38.873 [main] INFO  testcase.TC_001Login - Entered Valid Username
+12:17:38.971 [main] INFO  testcase.TC_001Login - Entered Valid Password
+12:17:39.809 [main] INFO  testcase.TC_001Login - Click on Submit Button
+12:17:39.877 [main] INFO  testcase.TC_001Login - Login Sucess
+12:17:39.880 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+12:18:19.344 [main] INFO  testcase.TC_001Login - starting TC_001Login
+12:18:22.271 [main] INFO  testcase.TC_001Login - Entered Valid Username
+12:18:22.367 [main] INFO  testcase.TC_001Login - Entered Valid Password
+12:18:23.441 [main] INFO  testcase.TC_001Login - Click on Submit Button
+12:18:23.518 [main] INFO  testcase.TC_001Login - Login Sucess
+12:18:23.521 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+12:19:27.914 [main] INFO  testcase.TC_001Login - starting TC_001Login
+12:19:31.638 [main] INFO  testcase.TC_001Login - Entered Valid Username
+12:19:31.741 [main] INFO  testcase.TC_001Login - Entered Valid Password
+12:19:32.409 [main] INFO  testcase.TC_001Login - Click on Submit Button
+12:19:32.489 [main] INFO  testcase.TC_001Login - Login Sucess
+12:19:32.492 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+12:21:51.366 [main] INFO  testcase.TC_001Login - starting TC_001Login
+12:21:55.815 [main] INFO  testcase.TC_001Login - Entered Valid Username
+12:21:55.909 [main] INFO  testcase.TC_001Login - Entered Valid Password
+12:21:56.561 [main] INFO  testcase.TC_001Login - Click on Submit Button
+12:21:56.619 [main] INFO  testcase.TC_001Login - Login Sucess
+12:21:56.624 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+12:25:56.169 [main] INFO  testcase.TC_001Login - starting TC_001Login
+12:25:59.607 [main] INFO  testcase.TC_001Login - Entered Valid Username
+12:25:59.702 [main] INFO  testcase.TC_001Login - Entered Valid Password
+12:26:00.334 [main] INFO  testcase.TC_001Login - Click on Submit Button
+12:26:00.407 [main] INFO  testcase.TC_001Login - Login Sucess
+12:26:00.410 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+12:31:44.654 [main] INFO  testcase.TC_001Login - starting TC_001Login
+12:31:47.878 [main] INFO  testcase.TC_001Login - Entered Valid Username
+12:31:47.981 [main] INFO  testcase.TC_001Login - Entered Valid Password
+12:31:48.674 [main] INFO  testcase.TC_001Login - Click on Submit Button
+12:31:58.741 [main] ERROR testcase.TC_001Login - Login Failed
+12:35:43.913 [main] INFO  testcase.TC_001Login - starting TC_001Login
+12:35:47.217 [main] INFO  testcase.TC_001Login - Entered Valid Username
+12:35:47.316 [main] INFO  testcase.TC_001Login - Entered Valid Password
+12:35:48.222 [main] INFO  testcase.TC_001Login - Click on Submit Button
+12:35:48.284 [main] INFO  testcase.TC_001Login - Login Sucess
+12:35:48.287 [main] INFO  testcase.TC_001Login - Finished TC_001Login
+14:37:31.211 [main] INFO  testcase.TC_002ApplyLeave - starting TC_001Login
+14:37:35.507 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Username
+14:37:35.610 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Password
+14:37:37.018 [main] INFO  testcase.TC_002ApplyLeave - Click on Submit Button
+14:47:32.901 [main] INFO  testcase.TC_002ApplyLeave - starting TC_001Login
+14:47:37.273 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Username
+14:47:37.377 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Password
+14:47:38.601 [main] INFO  testcase.TC_002ApplyLeave - Click on Submit Button
+14:50:58.397 [main] INFO  testcase.TC_002ApplyLeave - starting TC_001Login
+14:51:04.278 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Username
+14:51:04.375 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Password
+14:51:05.319 [main] INFO  testcase.TC_002ApplyLeave - Click on Submit Button
+14:52:27.701 [main] INFO  testcase.TC_002ApplyLeave - starting TC_001Login
+14:52:31.544 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Username
+14:52:31.640 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Password
+14:52:32.545 [main] INFO  testcase.TC_002ApplyLeave - Click on Submit Button
+15:09:23.909 [main] INFO  testcase.TC_002ApplyLeave - starting TC_001Login
+15:09:27.025 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Username
+15:09:27.117 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Password
+15:09:27.912 [main] INFO  testcase.TC_002ApplyLeave - Click on Submit Button
+15:09:28.011 [main] INFO  testcase.TC_002ApplyLeave - Click on Leave/Regularisation
+15:09:28.682 [main] INFO  testcase.TC_002ApplyLeave - Click on Apply Leave
+15:09:28.843 [main] INFO  testcase.TC_002ApplyLeave - Entered From Date
+15:09:29.006 [main] INFO  testcase.TC_002ApplyLeave - Entered To Date
+15:09:29.161 [main] INFO  testcase.TC_002ApplyLeave - Click on Leave Type
+15:09:29.269 [main] INFO  testcase.TC_002ApplyLeave - Entered Leave Reason
+15:09:29.366 [main] INFO  testcase.TC_002ApplyLeave - Enter Alternative Phone Number
+15:09:29.504 [main] INFO  testcase.TC_002ApplyLeave - Enter Alternative Address
+15:09:39.593 [main] FATAL testcase.TC_002ApplyLeave - Login Failed
+15:14:39.826 [main] INFO  testcase.TC_002ApplyLeave - starting TC_002ApplyLeave
+15:14:43.495 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Username
+15:14:43.590 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Password
+15:14:44.649 [main] INFO  testcase.TC_002ApplyLeave - Click on Submit Button
+15:14:44.751 [main] INFO  testcase.TC_002ApplyLeave - Click on Leave/Regularisation
+15:14:45.367 [main] INFO  testcase.TC_002ApplyLeave - Click on Apply Leave
+15:14:45.521 [main] INFO  testcase.TC_002ApplyLeave - Entered From Date
+15:14:45.643 [main] INFO  testcase.TC_002ApplyLeave - Entered To Date
+15:14:45.762 [main] INFO  testcase.TC_002ApplyLeave - Click on Leave Type
+15:14:45.876 [main] INFO  testcase.TC_002ApplyLeave - Entered Leave Reason
+15:14:45.985 [main] INFO  testcase.TC_002ApplyLeave - Enter Alternative Phone Number
+15:14:46.132 [main] INFO  testcase.TC_002ApplyLeave - Enter Alternative Address
+15:14:56.217 [main] FATAL testcase.TC_002ApplyLeave - Login Failed
+15:16:18.797 [main] INFO  testcase.TC_002ApplyLeave - starting TC_002ApplyLeave
+15:16:23.112 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Username
+15:16:23.262 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Password
+15:16:24.298 [main] INFO  testcase.TC_002ApplyLeave - Click on Submit Button
+15:16:24.374 [main] INFO  testcase.TC_002ApplyLeave - Click on Leave/Regularisation
+15:16:25.116 [main] INFO  testcase.TC_002ApplyLeave - Click on Apply Leave
+15:16:25.262 [main] INFO  testcase.TC_002ApplyLeave - Entered From Date
+15:16:25.374 [main] INFO  testcase.TC_002ApplyLeave - Entered To Date
+15:16:25.504 [main] INFO  testcase.TC_002ApplyLeave - Click on Leave Type
+15:16:25.613 [main] INFO  testcase.TC_002ApplyLeave - Entered Leave Reason
+15:16:25.707 [main] INFO  testcase.TC_002ApplyLeave - Enter Alternative Phone Number
+15:16:25.844 [main] INFO  testcase.TC_002ApplyLeave - Enter Alternative Address
+15:16:26.476 [main] INFO  testcase.TC_002ApplyLeave - Click on Apply Leave Button
+15:16:26.477 [main] INFO  testcase.TC_002ApplyLeave - Finished TC_002ApplyLeave
+15:17:53.451 [main] INFO  testcase.TC_002ApplyLeave - starting TC_002ApplyLeave
+15:18:02.366 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Username
+15:18:02.459 [main] INFO  testcase.TC_002ApplyLeave - Entered Valid Password
+15:18:03.470 [main] INFO  testcase.TC_002ApplyLeave - Click on Submit Button
+15:18:03.556 [main] INFO  testcase.TC_002ApplyLeave - Click on Leave/Regularisation
+15:18:04.247 [main] INFO  testcase.TC_002ApplyLeave - Click on Apply Leave
+15:18:04.376 [main] INFO  testcase.TC_002ApplyLeave - Entered From Date
+15:18:04.494 [main] INFO  testcase.TC_002ApplyLeave - Entered To Date
+15:18:04.633 [main] INFO  testcase.TC_002ApplyLeave - Click on Leave Type
+15:18:04.748 [main] INFO  testcase.TC_002ApplyLeave - Entered Leave Reason
+15:18:04.843 [main] INFO  testcase.TC_002ApplyLeave - Enter Alternative Phone Number
+15:18:04.985 [main] INFO  testcase.TC_002ApplyLeave - Enter Alternative Address
+15:18:05.828 [main] INFO  testcase.TC_002ApplyLeave - Click on Apply Leave Button
+15:18:05.828 [main] INFO  testcase.TC_002ApplyLeave - Finished TC_002ApplyLeave
